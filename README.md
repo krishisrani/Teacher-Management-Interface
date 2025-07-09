@@ -1,7 +1,6 @@
 # Teacher Management Interface
 
-A modern, responsive teacher management system built as a capstone project for my 4th year Computer Science degree.
-
+A modern, responsive teacher management system built as a capstone project for my assessment.
 ## Motivation & Design Decisions
 I wanted to create a user-friendly, accessible, and visually appealing interface for managing teachers, inspired by real-world admin dashboards. I chose Next.js and Tailwind CSS for their modern developer experience and rapid prototyping capabilities. Throughout this project, I focused on clean code, accessibility, and a mobile-first approach.
 
