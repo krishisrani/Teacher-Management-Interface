@@ -31,8 +31,7 @@ Add screenshots of your app here. Example:
 ![Dashboard](./screenshots/dashboard.png)
 ![Profile](./screenshots/teacher-profile.png)
 
-## Deployment
-[Live Demo (Vercel)](https://your-vercel-app-url.vercel.app)
+
 
 ## Learning Outcomes
 - Gained hands-on experience with Next.js App Router and TypeScript
@@ -41,9 +40,10 @@ Add screenshots of your app here. Example:
 - Improved my skills in component-based architecture and code organization
 
 ## Author
-**Your Name**  
+Krish Israni  
 4th Year Computer Science Student  
-your.email@example.com
+Medicaps University, Indore
+en22cs301519@medicaps.ac.in
 
 ## License
-MIT
+Krish
